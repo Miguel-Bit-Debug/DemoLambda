@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xMmXKygH7p2nOvV2Sm7+Je7/Zi7NZGel6FZd1nlbVYQEHeRUPVwqABt3+LBtNEc3sxHi20+1asfxk0Wg/d+jPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Csharp\\Demos\\Demo.Lambda\\Compartilhado\\Compartilhado.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MDMago\\.nuget\\packages\\awssdk.core\\3.7.106.10\\awssdk.core.3.7.106.10.nupkg.sha512",
+    "C:\\Users\\MDMago\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.102.17\\awssdk.dynamodbv2.3.7.102.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Dev\Csharp\Demos\Demo.Lambda\Compartilhado\bin\Debug\net6.0\Compartilhado.deps.json
+C:\Dev\Csharp\Demos\Demo.Lambda\Compartilhado\bin\Debug\net6.0\Compartilhado.dll
+C:\Dev\Csharp\Demos\Demo.Lambda\Compartilhado\bin\Debug\net6.0\Compartilhado.pdb
+C:\Dev\Csharp\Demos\Demo.Lambda\Compartilhado\obj\Debug\net6.0\Compartilhado.csproj.AssemblyReference.cache
+C:\Dev\Csharp\Demos\Demo.Lambda\Compartilhado\obj\Debug\net6.0\Compartilhado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Csharp\Demos\Demo.Lambda\Compartilhado\obj\Debug\net6.0\Compartilhado.AssemblyInfoInputs.cache
+C:\Dev\Csharp\Demos\Demo.Lambda\Compartilhado\obj\Debug\net6.0\Compartilhado.AssemblyInfo.cs
+C:\Dev\Csharp\Demos\Demo.Lambda\Compartilhado\obj\Debug\net6.0\Compartilhado.csproj.CoreCompileInputs.cache
+C:\Dev\Csharp\Demos\Demo.Lambda\Compartilhado\obj\Debug\net6.0\Compartilhado.dll
+C:\Dev\Csharp\Demos\Demo.Lambda\Compartilhado\obj\Debug\net6.0\refint\Compartilhado.dll
+C:\Dev\Csharp\Demos\Demo.Lambda\Compartilhado\obj\Debug\net6.0\Compartilhado.pdb
+C:\Dev\Csharp\Demos\Demo.Lambda\Compartilhado\obj\Debug\net6.0\ref\Compartilhado.dll
